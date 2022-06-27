@@ -44,7 +44,7 @@ Since now we have applied 1D and 2D to our Quadcopter, Now we will be extending 
 #### **Quad Velocity**
 ![](https://i.imgur.com/giXTM5l.jpg)
 
-### **Quad Position**
+#### **Quad Position**
 ![](https://i.imgur.com/5B75MVU.jpg)
 
 
@@ -55,9 +55,6 @@ Since now we have applied 1D and 2D to our Quadcopter, Now we will be extending 
 #### **Quad Velocity**
 <!-- ![](https://i.imgur.com/5pvjgz5.png =500x300) -->
 <img src="https://i.imgur.com/5pvjgz5.png" width='560' height='420'/>
-
-
-
 
 #### **Quad Position**
 ![](https://i.imgur.com/nsXInF3.jpg)
