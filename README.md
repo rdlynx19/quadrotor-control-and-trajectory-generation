@@ -17,7 +17,7 @@ The rise time was kept as less than 1 second and the maximum overshoot was cappe
 
 
 ## 2D Control of Quadrotor
-After controlling quadrotor in 1 Dimension, our next objective is to build a PD controller to control the motion of quadrotor in Y-Z (2D) plane. Below are results ,we moved the quadrotor from some y postion to another, keeping heigth (z) constant.
+After controlling quadrotor in 1 Dimension, our next objective is to build a PD controller to control the motion of quadrotor in Y-Z (2D) plane. Below are results ,we moved the quadrotor from some y postion to another, keeping height (z) constant.
 
 ### Hover Controller
 The Quadcopter was moved to a desired position in y direction
